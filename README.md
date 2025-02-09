@@ -8,6 +8,6 @@ can find specific plants, generate maps of gardens, remove plants, etc.
 
 <h1>How to use 1</h1>
 
-The code can be ran in most Java proggraming enviornments; howver, I used <a href="https://spider.eng.auburn.edu/user-cgi/grasp/grasp.pl?;dl=download_jgrasp.html">JGrasp</a>.
+The code can be ran in most Java programing enviornments; howver, I used <a href="https://spider.eng.auburn.edu/user-cgi/grasp/grasp.pl?;dl=download_jgrasp.html">JGrasp</a>.
 Once running the code, V.O.G.A will tell the user how to use it.
 Thank you for using V.O.G.A, I hope it is helpful
